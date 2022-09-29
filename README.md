@@ -4,7 +4,7 @@
 
 ## Usage
 
-1. Заводим Debian сервер на [https://my.selectel.ru/vpc/](https://my.selectel.ru/vpc/).
+1. Заводим Debian сервер на [https://my.selectel.ru/vpc/](https://my.selectel.ru/vpc/) или ещё где-нибудь.
 2. `./vpn.zsh <ПУБЛИЧНЫЙ_IP_СЕРВЕРА>` (используется root логин).
 3. В System Preferences мака появится новая конфигурация (справа снизу).
 4. Устанавливаем конфигурацию.
